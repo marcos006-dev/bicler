@@ -182,20 +182,20 @@ $version = trim(explode("=", file_get_contents('versions.md'))[1]);
           <div class="col-lg-8 col-md-12 col-sm-12">
             <div class="single-footer-widget">
               <h6>
-                Contacto 😁<a
+                Contacto:<a
                   href="mailto:hola@bicler.com?subject=Hola!&body=Quiero mas información"
-                  >hola@bicler.com</a
+                  style="color: #119bb2"
+                  > hola@bicler.com</a
                 >
               </h6>
             </div>
           </div>
           <div class="col-lg-4 col-md-12 col-sm-12 social-widget">
             <div class="single-footer-widget">
-              <h6>Encontranos 😉</h6>
+              <h6>Encontranos: </h6>
               <!-- <p>Let us be social</p> -->
               <div class="footer-social d-flex align-items-center">
                 <a href="#"><i class="fa fa-facebook"></i></a>
-                <a href="#"><i class="fa fa-twitter"></i></a>
                 <a href="#"><i class="fa fa-instagram"></i></a>
               </div>
             </div>
