@@ -60,7 +60,7 @@ $version = trim(explode("=", file_get_contents('versions.md'))[1]);
       <div
         class="item-slider relative"
         style="
-          background: url(img/alquilerBicicletas/1.jpg);
+          background: url(img/alquilerBicicletas/AlquilerBici1.jpg);
           background-size: cover;
         "
       >
@@ -79,7 +79,7 @@ $version = trim(explode("=", file_get_contents('versions.md'))[1]);
       <div
         class="item-slider relative"
         style="
-          background: url(img/alquilerBicicletas/2.jpg);
+          background: url(img/alquilerBicicletas/AlquilerBici2.jpg);
           background-size: cover;
         "
       >
@@ -100,7 +100,7 @@ $version = trim(explode("=", file_get_contents('versions.md'))[1]);
     <section class="default-banner active-blog-slider mt-2">
       <div
         class="item-slider relative"
-        style="background: url(img/bikeTour/1.jpg); background-size: cover"
+        style="background: url(img/bikeTour/BikeTour1.jpg); background-size: cover"
       >
         <div class="overlay" style="background: rgba(0, 0, 0, 0.3)"></div>
         <div class="container">
@@ -116,7 +116,7 @@ $version = trim(explode("=", file_get_contents('versions.md'))[1]);
       </div>
       <div
         class="item-slider relative"
-        style="background: url(img/bikeTour/2.jpg); background-size: cover"
+        style="background: url(img/bikeTour/BikeTour2.jpg); background-size: cover"
       >
         <div class="overlay" style="background: rgba(0, 0, 0, 0.3)"></div>
         <div class="container">
@@ -137,7 +137,7 @@ $version = trim(explode("=", file_get_contents('versions.md'))[1]);
       <div
         class="item-slider relative"
         style="
-          background: url(img/freeWalkingTour/1.jpg);
+          background: url(img/freeWalkingTour/FreeTour1.jpg);
           background-size: cover;
         "
       >
@@ -156,7 +156,7 @@ $version = trim(explode("=", file_get_contents('versions.md'))[1]);
       <div
         class="item-slider relative"
         style="
-          background: url(img/freeWalkingTour/2.jpg);
+          background: url(img/freeWalkingTour/FreeTour2.jpg);
           background-size: cover;
         "
       >
