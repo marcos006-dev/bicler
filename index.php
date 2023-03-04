@@ -45,7 +45,7 @@ $version = trim(explode("=", file_get_contents('versions.md'))[1]);
         <nav class="navbar navbar-expand-lg navbar-light">
           <div class="container">
             <h1 class="text-white">Bicler</h1>
-            <a class="navbar-brand" href="index.html">
+            <a class="navbar-brand" href="index.php">
               <!-- <b ></b> -->
             </a>
           </div>
@@ -70,7 +70,7 @@ $version = trim(explode("=", file_get_contents('versions.md'))[1]);
             <div class="col-md-10 col-12">
               <div class="banner-content text-center">
                 <h1 class="text-uppercase text-white">Alquiler Bicicletas</h1>
-                <a href="#" class="text-uppercase header-btn">Ver Más</a>
+                <a href="./pages/alquiler-bicicletas.php" class="text-uppercase header-btn">Ver Más</a>
               </div>
             </div>
           </div>
@@ -89,14 +89,13 @@ $version = trim(explode("=", file_get_contents('versions.md'))[1]);
             <div class="col-md-10 col-12">
               <div class="banner-content text-center">
                 <h1 class="text-uppercase text-white">Alquiler Bicicletas</h1>
-                <a href="#" class="text-uppercase header-btn">Ver Más</a>
+                <a href="./pages/alquiler-bicicletas.php" class="text-uppercase header-btn">Ver Más</a>
               </div>
             </div>
           </div>
         </div>
       </div>
     </section>
-    <!-- end bike Area -->
     <section class="default-banner active-blog-slider mt-2">
       <div
         class="item-slider relative"
@@ -108,7 +107,7 @@ $version = trim(explode("=", file_get_contents('versions.md'))[1]);
             <div class="col-md-10 col-12">
               <div class="banner-content text-center">
                 <h1 class="text-uppercase text-white">Bike Tour</h1>
-                <a href="#" class="text-uppercase header-btn">Ver Más</a>
+                <a href="./pages/bike-tour.php" class="text-uppercase header-btn">Ver Más</a>
               </div>
             </div>
           </div>
@@ -124,7 +123,7 @@ $version = trim(explode("=", file_get_contents('versions.md'))[1]);
             <div class="col-md-10 col-12">
               <div class="banner-content text-center">
                 <h1 class="text-uppercase text-white">Bike Tour</h1>
-                <a href="#" class="text-uppercase header-btn">Ver Más</a>
+                <a href="./pages/bike-tour.php" class="text-uppercase header-btn">Ver Más</a>
               </div>
             </div>
           </div>
@@ -147,7 +146,7 @@ $version = trim(explode("=", file_get_contents('versions.md'))[1]);
             <div class="col-md-10 col-12">
               <div class="banner-content text-center">
                 <h1 class="text-uppercase text-white">Free Walking Tour</h1>
-                <a href="#" class="text-uppercase header-btn">Ver Más</a>
+                <a href="./pages/free-walking-tour.php" class="text-uppercase header-btn">Ver Más</a>
               </div>
             </div>
           </div>
@@ -166,7 +165,7 @@ $version = trim(explode("=", file_get_contents('versions.md'))[1]);
             <div class="col-md-10 col-12">
               <div class="banner-content text-center">
                 <h1 class="text-uppercase text-white">Free Walking Tour</h1>
-                <a href="#" class="text-uppercase header-btn">Ver Más</a>
+                <a href="./pages/free-walking-tour.php" class="text-uppercase header-btn">Ver Más</a>
               </div>
             </div>
           </div>
